@@ -1,0 +1,18 @@
+.WeatherForecast{
+   width: 75%;
+   display: flex;
+   float: right;
+   font-size: 20px;
+}
+
+
+.sevenDay{
+    width: 25%;
+    font-size: 30px;
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    padding-top: 8%;
+}
